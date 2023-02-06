@@ -1,6 +1,6 @@
 # Digital Business Card
 
-*For demo purposes: some of the contact links are not redirected to my actual contact for privacy purposes*
+*Note: Some of the contact links provided are for demonstration purposes only and are not linked to my actual contact information for privacy reasons.*
 
 Demo deploying digital business card in Firebase:
 1. `npm install -g firebase-tools`
